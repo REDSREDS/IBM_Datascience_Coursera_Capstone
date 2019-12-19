@@ -4,4 +4,4 @@ This is the final project for IBM data science certificate in Coursera. The goal
 * Add location data to each neighborhood (geopy)
 * Get nearby restaurants from foursquare API
 * Cluster neighborhoods based on restaurant type (sklearn.cluster)
-* visualize neighborhoods clusters on the map (folium)
+* Visualize neighborhoods clusters on the map (folium)
