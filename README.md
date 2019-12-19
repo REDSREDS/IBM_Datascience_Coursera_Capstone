@@ -5,3 +5,6 @@ This is the final project for IBM data science certificate in Coursera. The goal
 * Get nearby restaurants from foursquare API
 * Cluster neighborhoods based on restaurant type (sklearn.cluster)
 * Visualize neighborhoods clusters on the map (folium)
+
+
+![Visualization](https://github.com/REDSREDS/IBM_Datascience_Coursera_Capstone/blob/master/Neighborhood-visualization.png)
